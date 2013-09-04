@@ -6,9 +6,10 @@ Transifex
 =========
 
 Translation are crowdsourced on transifex (see tranlators.rst).  As a developper,
-you need to interace with transifex's servers using transifex-client.  Note that 
-the branch that is translated on git is the "develop" branch (at least untill 
-further notice).
+you need to interace with transifex's servers using transifex-client. To do that, follow transifex documentation  :
+http://support.transifex.com/customer/portal/articles/960804-overview#getting-the-client
+
+Note that the branch that is translated on git is the "develop" branch (at least untill further notice).
 
 First, pull translations from transifex::
 
